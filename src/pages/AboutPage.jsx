@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { Footer, Navbar } from "../components";
 const AboutPage = () => {
   return (
@@ -8,19 +8,7 @@ const AboutPage = () => {
         <h1 className="text-center">About Us</h1>
         <hr />
         <p className="lead text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-          facere doloremque veritatis odit similique sequi. Odit amet fuga nam
-          quam quasi facilis sed doloremque saepe sint perspiciatis explicabo
-          totam vero quas provident ipsam, veritatis nostrum velit quos
-          recusandae est mollitia esse fugit dolore laudantium. Ex vel explicabo
-          earum unde eligendi autem praesentium, doloremque distinctio nesciunt
-          porro tempore quis eaque labore voluptatibus ea necessitatibus
-          exercitationem tempora molestias. Ad consequuntur veniam sequi ullam
-          tempore vel tenetur soluta dolore sunt maxime aliquam corporis est,
-          quo saepe dolorem optio minus sint nemo totam dolorum! Reprehenderit
-          delectus expedita a alias nam recusandae illo debitis repellat libero,
-          quasi explicabo molestiae saepe, dolorem tempore itaque eveniet quam
-          dignissimos blanditiis excepturi harum numquam vel nihil? Ipsum
+          Welcome to EShop, where passion meets innovation in the world of online shopping! We are your go-to destination for Products and strive to redefine your shopping experience.At EShop,We are dedicated to providing top-notch products or services that not only meet but exceed your expectations. Whether you have to be a market lead or just a savvy shopper, we have something special for everyone.
         </p>
 
         <h2 className="text-center py-4">Our Products</h2>
